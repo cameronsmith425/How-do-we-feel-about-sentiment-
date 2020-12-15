@@ -13,9 +13,9 @@ author: Musetti ADAletti
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-#  About Me: "aboutme"
-#  Resources:
+navbar-links:
+  About Us: "aboutme"
+  The dataset: "infodataset"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
