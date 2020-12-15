@@ -20,3 +20,5 @@ We see that the number of tweets follow the same trend throught the day for the 
 
 ![Daily Trend](/assets/img/daily_trend.png)
 
+I hope the graph shows
+
