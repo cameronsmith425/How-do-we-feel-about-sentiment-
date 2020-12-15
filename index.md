@@ -18,3 +18,5 @@ cover-img: "/assets/img/High_res_cam.jpg"
 
 We see that the number of tweets follow the same trend throught the day for the different days no matter the sentiment of the tweet. It is clear that the majority of the tweets are being sent late at night on the weekdays between 19-24h. So you might think that this is the best time to send out your tweets because people are online then, right? Not so fast. Just because that is when everyone is sending out their tweets at that time, that doesn't mean you have to. In fact, these times show not to be the best to maximize the number of retweets your tweet recieves. So, if you really want to become an influencer, it may help to be a little more strategic as to when you share your thoughts with the world. 
 
+![Daily Trend](assets/img/daily_trend.png)
+
