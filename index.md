@@ -20,5 +20,6 @@ We see that the number of tweets follow the same trend throught the day for the 
 
 ![Daily Trend](/assets/img/daily_trend.png)
 
-I hope the graph shows
+If you really want to boost your retweet count, you should pay close attention now. If you are posting late at night expecting the retweets to roll in, you are doing it all wrong. Don't worry, it is a common mistake for most users. But you are about to get a one up on the rest of them. If you lookd
 
+![Zoom retweets](/assets/img/zoom_retweets.png)
