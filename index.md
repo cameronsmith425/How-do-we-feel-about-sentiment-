@@ -2,7 +2,7 @@
 layout: home
 title: How to Become a Twitter Influencer
 subtitle: A short guide on how to boost your chances to be a real influencer on Twitter.
-cover-img: "/assets/img/high_res_cam.jpg"
+cover-img: "/assets/img/High_res_cam.jpg"
 ---
  Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that gives tips on how get more followers, but 
  how many of them can claim to have a solid scientific evidence to support their tips? 
