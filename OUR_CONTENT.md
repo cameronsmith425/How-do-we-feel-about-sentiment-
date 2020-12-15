@@ -1,3 +1,9 @@
+------------------
+
+layout: home
+
+------------------
+
 Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that gives tips on how get more followers, but 
 how many of them can claim to have a solid scientific evidence to support their tips? 
 
