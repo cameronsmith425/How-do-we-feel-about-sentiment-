@@ -5,9 +5,9 @@ title: About Us
 
 We are three master students and a PhD student from EPFL passionate about social sciences etc etc.
 
-| Mattia Atzeni | Laura Cabizzosu | MArcel Granero | Cameron Smith |
+| Mattia Atzeni | Laura Cabizzosu | Marcel Granero | Cameron Smith |
 | :------ |:--- | :--- | :--- |
-| Photo??? |  <img src="laura.jpg" alt="laura.jpg" width="100"/> | [<img src="laura.jpg" width="150"/>](laura.jpg) |Photo???| 
+| Photo??? |  <img src="laura.jpg" alt="laura.jpg" width="100"/> | [<img src="[laura.jpg]" width="150"/>](laura.jpg) |Photo???| 
 | Electrical Engineer | Bioengineer | Data Scientist | Bioengineer |
 
 
