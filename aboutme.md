@@ -7,7 +7,7 @@ We are three master students and a PhD student from EPFL passionate about social
 
 | Mattia Atzeni | Laura Cabizzosu | MArcel Granero | Cameron Smith |
 | :------ |:--- | :--- | :--- |
-| Photo??? |  <img src="laura.jpg"  width="100"/> | <img src="laura.jpg"  width="100"/> |Photo???| 
+| Photo??? |  <img src="laura.jpg"  width="100"/> | [<img src="image.png" width="150"/>](laura.jpg) |Photo???| 
 | Electrical Engineer | Bioengineer | Data Scientist | Bioengineer |
 
 alt="drawing"
