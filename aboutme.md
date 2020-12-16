@@ -20,6 +20,4 @@ Our group is called *Musetti ADAletti* because we are following the intense cour
 
 Check out the instagram page of these cute pets! You will understand why we choose these mascottes.
 
-<img src="laura.jpg" width="50" />
-![](laura.jpg width=150)
-[<img src="laura.jpg" width="50"/>](laura.jpg)
+![test image size](laura.jpg){: width="150"}
