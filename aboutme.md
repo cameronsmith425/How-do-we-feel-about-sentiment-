@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About Us
+subtitle: Meet the authors
 ---
 
-We are three master students and a PhD student from EPFL passionate about social sciences etc etc.
+We are three master students and a PhD student from EPFL passionate about social sciences and data analysis. This webpage is the result of a group project over the time of three weeks in the course of Applied Data Analysis (ADA in short). 
 
 | Mattia Atzeni | Laura Cabizzosu | Marcel Granero | Cameron Smith |
 | :------ |:--- | :--- | :--- |
-| Photo??? |  <img src="laura.jpg" alt="laura.jpg" width="100"/> | [<img src="[laura.jpg]" width="150"/>](laura.jpg) |Photo???| 
+| Photo??? |  ![](laura.jpg =150x) | [<img src="laura.jpg" width="150"/>](laura.jpg) |Photo???| 
 | Electrical Engineer | Bioengineer | Data Scientist | Bioengineer |
 
 
