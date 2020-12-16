@@ -14,6 +14,12 @@ cover-img: "/assets/img/High_res_cam.jpg"
  We analysed several features of over one million tweets coming from real users to analyze the popularity of these users. 
  We sum up all what we discovered here and share this found knowledge with you guys.
 
+
+# Which mood should you have while posting?
+
+
+
+___
 # When should you be posting?
 
 We see that the number of tweets follow the same trend throught the day for the different days no matter the sentiment of the tweet. It is clear that the majority of the tweets are being sent late at night on the weekdays between 7PM-Midnight. So you might think that this is the best time to send out your tweets because people are online then, right? Not so fast. Just because that is when everyone is sending out their tweets at that time, that doesn't mean you have to. In fact, these times show not to be the best to maximize the number of retweets your tweet recieves. So, if you really want to become an influencer, it may help to be a little more strategic as to when you share your thoughts with the world. 
@@ -23,3 +29,12 @@ We see that the number of tweets follow the same trend throught the day for the 
 If you really want to boost your retweet count, you should pay close attention now. If you are posting late at night expecting the retweets to roll in, you are doing it all wrong. Don't worry, it is a common mistake for most users. But you are about to get a one up on the rest of them. If you look below, you can see the peak times to get the highest average number of retweets. If we look across all tweets, the best times to boost your popularity are at 6AM on a Monday and 9AM on a Sunday. You may notice that the optimal time depends on your mood. If you are loving the world and nothing can bring you down, and you are able to grab a cup of coffee before hand, then it is better to post around 6AM Monday, 7AM Thursday, or 8AM Tuesday. If you are not a morning person (like me), then don't worry, because you can still post a tweet with a big smile on your face at 5PM on Sunday and expect a large amount of retweets. You should also think about adapting a weekly ranting session into your schedule. But make sure the ranting session occurs at Sunday around 9AM. 
 
 ![Zoom retweets](/assets/img/zoom_retweets.png)
+
+
+# Which is the best topic to talk about?
+
+
+# How many followers should you aim to have?
+
+
+
