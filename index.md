@@ -15,13 +15,13 @@ cover-img: "/assets/img/High_res_cam.jpg"
  We sum up all what we discovered here and share this found knowledge with you guys.
 
 
-# Which mood should you have while posting?
+## Which mood should you have while posting?
 ___
 
 
 
-# When should you be posting?
---- 
+## When should you be posting?
+___
 We see that the number of tweets follow the same trend throught the day for the different days no matter the sentiment of the tweet. It is clear that the majority of the tweets are being sent late at night on the weekdays between 7PM-Midnight. So you might think that this is the best time to send out your tweets because people are online then, right? Not so fast. Just because that is when everyone is sending out their tweets at that time, that doesn't mean you have to. In fact, these times show not to be the best to maximize the number of retweets your tweet recieves. So, if you really want to become an influencer, it may help to be a little more strategic as to when you share your thoughts with the world. 
 
 ![Daily Trend](/assets/img/daily_trend.png)
@@ -31,10 +31,11 @@ If you really want to boost your retweet count, you should pay close attention n
 ![Zoom retweets](/assets/img/zoom_retweets.png)
 
 
-# Which is the best topic to talk about?
+## Which is the best topic to talk about?
+___
 
 
-# How many followers should you aim to have?
-
+## How many followers should you aim to have?
+___
 
 
