@@ -34,6 +34,7 @@ If you really want to boost your retweet count, you should pay close attention n
 ## Which is the best topic to talk about?
 ___
 
+Of course, there is an infinite number of topics that you could post about. Maybe you want to rant about the family reunion your parents are forcing you to go to or that dress Lady Gaga wore to the Grammys'. If your main goal is to increase your retweet count though, then there are certain topics you may want to focus on. We decided to analyze the 8 popular topics including sports, politics, music, religion, health, cooking, fashion, and family. For each topic we dove into the data to figure out which topics were better for getting a higher retweet count.  
 
 ## How many followers should you aim to have?
 ___
