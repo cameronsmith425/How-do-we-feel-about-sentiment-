@@ -1,7 +1,7 @@
 ---
 layout: home
-title: How to Become a Twitter Influencer
-subtitle: <span style="color:LightGray"> A short guide on how to boost your chances to be a real influencer on Twitter.</span>
+title: <span style="color:DarkGray">How to Become a Twitter Influencer </span>
+subtitle: <span style="color:DarkGray"> A short guide on how to boost your chances to be a real influencer on Twitter.</span>
 cover-img: "/assets/img/High_res_cam.jpg"
 ---
  Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that gives tips on how get more followers, but 
