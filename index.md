@@ -43,7 +43,7 @@ Of course, there is an infinite number of topics that you could post about. Mayb
 
 But! Take into account that sentiment is crucial in some of the topics. You will probably be more retweeted if you complain about a politician rather than praising him/her. Conversely, when talking about sports, positive tweets will be more spread than negative ones. Check out the plot below to get a better understanding.
 
-![Median retweet count per category and sentiment](/assets/img/median_retweetcount.png)
+![Median retweet count per category and sentiment](/assets/img/median_retweetcount_category_sentiment.png)
 
 
 
