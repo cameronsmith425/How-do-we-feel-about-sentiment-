@@ -19,7 +19,7 @@ cover-img: "/assets/img/High_res_cam.jpg"
 ___
 Although there are many different moods, it is possible to claasify tweets as positive or negative. That is exactly what we did, and we investigated which is better for your retweet count. You may naturally think that it is good to spread positivity into the world and that people are more likely to retweet you when you are posting nothing but good vibes. Let's see if that's true. You may be surprised to know the majority of tweets were found to be positive; I guess not everyone is complaining all the time on Twitter. After looking at the top retweeeted tweets for both cateogries, positive tweets tended to have a higher ceiling for the retweet count. But, just because the ceiling is higher, doesn't mean they have a better chance of getting retweeted. 
 
-![](/assets/img/retweetability.png){: height="600" width="600"}
+![](/assets/img/retweetability.png){: height="200" width="600"}
 
 
 ![](/assets/img/tweet_retweet.png){: height="600" width="600"}
