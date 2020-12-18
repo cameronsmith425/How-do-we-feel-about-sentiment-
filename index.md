@@ -4,7 +4,7 @@ title: <span style="color:DarkGray">How to Become a Twitter Influencer </span>
 subtitle: <span style="color:DarkGray">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
 cover-img: "/assets/img/High_res_cam.jpg"
 ---
- Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that give tips on how get more followers, but 
+ Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that give tips on how get more retweets or followers, but 
  how many of them can claim to have a solid scientific evidence to support their tips? 
 
  Have you ever wondered which is the best moment of the day to publish your tweets to have the biggest retweetability? 
