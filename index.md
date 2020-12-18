@@ -54,4 +54,6 @@ But! Take into account that sentiment is crucial in some of the topics. You will
 ## How many followers should you aim to have?
 ___
 
+In the plot below we can see the percentage of positive and negative tweets posted per user, and the percentage of retweets coming from positive or negative tweets. The x axis shows the amount of followers per user. As you can see, the lines stay almost constant with respect to the amount of followers for both positive and negative tweets. In other words, it doesn't really matter how many followers you have! Just be yourself and follow the instructions we have explained before ;)
+
 ![](/assets/img/followers.png)
