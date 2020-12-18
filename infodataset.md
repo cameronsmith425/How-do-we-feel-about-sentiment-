@@ -15,10 +15,11 @@ We used two sentiment-analysis models for this purpose:
 
 Vader assings a sentiment score to the text of each tweet, and then we can distinguisch ```positive```, ```negative``` and ```neutral``` tweets by setting a threshold on this score. The following plot shows the sentiment distribution as predicted by Vader.
 
-![Vader](vader_sent_distrib.png){:height="200" width="200"}
+<span style="display:block;text-align:center"> ![Vader](vader_sent_distrib.png){:height="500" width="500"} </span>
 
+The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```positive``` and ```negative``` tweets. We applied this model on the ones labeled by Vader as non-neutral and we obtained the following distribution.
 
-The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```positive``` and ```negative``` tweets.
+<span style="display:block;text-align:center"> ![Vader](bert_sent_distrib.png){:height="500" width="500"} </span>
 
 
 
