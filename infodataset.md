@@ -13,7 +13,9 @@ We used two sentiment-analysis models for this purpose:
 * the [Vader sentiment analyzer](https://github.com/cjhutto/vaderSentiment) is a rule-based model published by [C.J. Hutto and Eric Gilbert (2014)](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8109/8122).
 * [BERT](https://arxiv.org/abs/1810.04805) is a more recent language model based on a large neural architecrture that can be fine-tuned for sentiment-analysis tasks.
 
-Vader assings a sentiment score to the text of each tweet, and then we can distinguisch ```positive```, ```negative``` and ```neutral``` tweets by putting a threshold on this score.
+Vader assings a sentiment score to the text of each tweet, and then we can distinguisch ```positive```, ```negative``` and ```neutral``` tweets by setting a threshold on this score.
+
+
 The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```Positive``` and ```Negative``` tweets.
 
 
