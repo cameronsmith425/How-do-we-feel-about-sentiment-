@@ -52,4 +52,4 @@ But! Take into account that sentiment is crucial in some of the topics. You will
 ## How many followers should you aim to have?
 ___
 
-
+![](/assets/img/followers.png)
