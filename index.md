@@ -17,12 +17,15 @@ cover-img: "/assets/img/High_res_cam.jpg"
 
 ## Which mood should your tweets come across as?
 ___
-Although there are many different moods, it is possible to claasify tweets as positive or negative. That is exactly what we did, and we investigated which is better for your retweet count. You may naturally think that it is good to spread positivity into the world and that people are more likely to retweet you when you are posting nothing but good vibes. Let's see if that's true. You may be surprised to know the majority of tweets were found to be positive; I guess not everyone is complaining all the time on Twitter. After looking at the top retweeeted tweets for both cateogries, positive tweets tended to have a higher ceiling for the retweet count. But, just because the ceiling is higher, doesn't mean they have a better chance of getting retweeted. 
+Although there are many different moods, it is possible to clasify tweets as positive or negative. That is exactly what we did, and we investigated which is better for your retweet count. You may naturally think that it is benficial to spread positivity into the world and that people are more likely to retweet you when you are posting nothing but good vibes. I mean no body wants to deal with bad vibes all the time, right? Let's see if that's true. You may be surprised to know the majority of tweets were found to be positive; I guess not everyone is complaining all the time on Twitter. After looking at the top retweeeted tweets for both cateogries, positive tweets tended to have a higher ceiling for the retweet count. But, just because the ceiling is higher, doesn't mean they have a better chance of getting retweeted. Below, you can see that if you don't have a large following yet, and are expecting less than 4,000 retweets, negative tweets tend to perform slightly better. At the higher retweet counts positive tweets prevail, but if you are new to the world of being an influencer and want to start getting higher amounts of retweets, you could try using those 140 characters to rant about something that really annoys you. 
+
+<span style="display:block;text-align:center"> ![](/assets/img/tweet_retweet.png){: height="400" width="400"} </span>
+
+
+Yea, we show that at low retweet levels negative tweets tend to perform better and that there tends to be more positive tweets at higher retweet counts, but does this mean you are guaranteed to get a retweet if you do one or the other. I hate to tell you this, but no. Regardless of the vibes you are putting out, your tweet has roughly a 25% chance to get retweeted. And whether or not your tweet is even retweeted appears independent from the sentiment of the tweet; there seems to be a higher dependecy on the time of the day. Keep reading to find out how the time of the day of your post affects its performance. 
 
 ![](/assets/img/retweetability.png)
 
-
-<span style="display:block;text-align:center"> ![](/assets/img/tweet_retweet.png){: height="400" width="400"} </span>
 
 ## When should you be posting?
 ___
