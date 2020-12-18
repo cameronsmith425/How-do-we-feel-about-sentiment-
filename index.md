@@ -15,7 +15,7 @@ cover-img: "/assets/img/High_res_cam.jpg"
  We sum up all what we discovered here and share this found knowledge with you guys.
 
 
-## Which mood should your tweets come across as?
+## What is the right vibe to put out?
 ___
 Although there are many different moods, it is possible to clasify tweets as positive or negative. That is exactly what we did, and we investigated which is better for your retweet count. You may naturally think that it is benficial to spread positivity into the world and that people are more likely to retweet you when you are posting nothing but good vibes. I mean no body wants to deal with bad vibes all the time, right? Let's see if that's true. You may be surprised to know the majority of tweets were found to be positive; I guess not everyone is complaining all the time on Twitter. After looking at the top retweeeted tweets for both cateogries, positive tweets tended to have a higher ceiling for the retweet count. But, just because the ceiling is higher, doesn't mean they have a better chance of getting retweeted. Below, you can see that if you don't have a large following yet, and are expecting less than 4,000 retweets, negative tweets tend to perform slightly better. At the higher retweet counts positive tweets prevail, but if you are new to the world of being an influencer and want to start getting higher amounts of retweets, you could try using those 140 characters to rant about something that really annoys you. 
 
