@@ -22,7 +22,7 @@ Although there are many different moods, it is possible to claasify tweets as po
 ![](/assets/img/retweetability.png)
 
 
-![](/assets/img/tweet_retweet.png)
+![](/assets/img/tweet_retweet.png){: height="400" width="400"}
 
 ## When should you be posting?
 ___
