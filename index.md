@@ -1,7 +1,7 @@
 ---
 layout: home
-title: <span style="color:Maroon">How to Become a Twitter Influencer </span>
-subtitle: <span style="color:Maroon">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
+title: <span style="color:DarkGray">How to Become a Twitter Influencer </span>
+subtitle: <span style="color:DarkGray">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
 cover-img: "/assets/img/High_res_cam.jpg"
 ---
  Social Media is becoming a central part of our lives. And our dependence on it is getting stronger. There are plenty of other websites that give tips on how get more retweets or followers, but 
@@ -13,7 +13,8 @@ cover-img: "/assets/img/High_res_cam.jpg"
  Here is the answer.
  We analysed several features of over one million real tweets to analyze the popularity of their authors. 
  We sum up all what we discovered here and share this found knowledge with you guys.
-
+ 
+ If you have a short attention span you could scroll down to the bottom to get a short summary of what we found.
 
 ## What is the right vibe to put out?
 ___
@@ -59,7 +60,14 @@ But! Take into account that sentiment is crucial in some of the topics. You will
 
 ## How many followers should you aim to have?
 ___
-"How many followers should I have to have the most visibility?" We are sure this is a question that haunts most of you. In the plot below you can have the answer.
+*How many followers should I have to have the most visibility?* We are sure this is a question that haunts most of you. In the plot below you can have the answer.
 Here you can see the percentage of positive and negative tweets posted per user, and the percentage of retweets coming from positive or negative tweets according to the amount of followers per user. As you can see, the lines stay almost constant with respect to the amount of followers for both positive and negative tweets. In other words, it doesn't really matter how many followers you have! Just be yourself and make good use of the great tips we gave you! ;)
 
 ![](/assets/img/followers.png)
+
+
+## In a Nutshell
+___
+
+- Negative vibes hit hard when starting to grow your following
+- 
