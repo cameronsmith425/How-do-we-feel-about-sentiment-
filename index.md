@@ -35,7 +35,17 @@ Don't get too excited though. You have to keep in mind that this peak may be due
 ## Which is the best topic to talk about?
 ___
 
-Of course, there is an infinite number of topics that you could post about. Maybe you want to rant about the family reunion your parents are forcing you to go to or that dress Lady Gaga wore to the Grammys'. If your main goal is to increase your retweet count though, then there are certain topics you may want to focus on. We decided to analyze the 8 popular topics including sports, politics, music, religion, health, cooking, fashion, and family. For each topic we dove into the data to figure out which topics were better for getting a higher retweet count. To get an idea of which topics perform better, we looked at the median of the retweet count for each one. Lucky to all the nurse, doctors, physical therapists, and health junkies out there because having tweets related to health can increase your retweet count. You may not be surprised to see that political tweets tend to perform well too. I want to apologize from the bottom of my heart to all the people that love posting about the meals they cooked, but tweets about cooking are the worst of all. 
+Of course, there is an infinite number of topics that you could post about. Maybe you want to rant about the family reunion your parents are forcing you to go to or that dress Lady Gaga wore to the Grammys'. If your main goal is to increase your retweets though, then there are certain topics you may want to focus on. We decided to analyze 8 popular topics including sports, politics, music, religion, health, cooking, fashion, and family. For each topic we dove into the data to figure out which of them were more retweeted. To get an idea of which topics perform better, we looked at the median of retweets. Lucky to all the nurse, doctors, physical therapists, and health junkies out there because having tweets related to health can increase your retweet count. You may not be surprised to see that political tweets tend to perform well too. I want to apologize from the bottom of my heart to all the people that love posting about the meals they cooked, but tweets about cooking are the worst of all. 
+
+
+![Median retweet count per category](/assets/img/median_retweetcount_category.png)
+
+But! Take into account that sentiment is crucial in some of the topics. You will probably be more retweeted if you complain about a politician rather than praising him/her. Conversely, when talking about sports, positive tweets will be more spread than negative ones. Check out the plot below to get a better understanding.
+
+![Median retweet count per category and sentiment](/assets/img/median_retweetcount.png)
+
+
+
 
 ## How many followers should you aim to have?
 ___
