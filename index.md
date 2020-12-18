@@ -59,7 +59,7 @@ But! Take into account that sentiment is crucial in some of the topics. You will
 
 ## How many followers should you aim to have?
 ___
-"How many followers should I have to have the most visibility?" We are sure this is a question that haunts most of you. In the plot belowe you can have the answer.
-Here you can see the percentage of positive and negative tweets posted per user, and the percentage of retweets coming from positive or negative tweets according to the amount of followers per user. As you can see, the lines stay almost constant with respect to the amount of followers for both positive and negative tweets. In other words, it doesn't really matter how many followers you have! Just be yourself and follow the instructions we have explained before ;)
+"How many followers should I have to have the most visibility?" We are sure this is a question that haunts most of you. In the plot below you can have the answer.
+Here you can see the percentage of positive and negative tweets posted per user, and the percentage of retweets coming from positive or negative tweets according to the amount of followers per user. As you can see, the lines stay almost constant with respect to the amount of followers for both positive and negative tweets. In other words, it doesn't really matter how many followers you have! Just be yourself and make good use of the great tips we gave you! ;)
 
 ![](/assets/img/followers.png)
