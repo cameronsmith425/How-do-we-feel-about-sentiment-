@@ -8,15 +8,17 @@ The results you are seeing are based on a follow up of a paper from [Hai Liang a
 
 The tweets collected have been cleaned up and preprocessed with complex and annoying natural language python toolkits, but dont't we will not annoy you with those. Everything went well though, trust us.
 
-We labeled the tweets based on the sentiment the convey as either ```positive```, ```neutral``` or  ```negative```.
+We labeled the tweets based on the sentiment they convey, as either ```positive```, ```neutral``` or  ```negative```.
 We used two sentiment-analysis models for this purpose:
 * the [Vader sentiment analyzer](https://github.com/cjhutto/vaderSentiment) is a rule-based model published by [C.J. Hutto and Eric Gilbert (2014)](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8109/8122).
 * [BERT](https://arxiv.org/abs/1810.04805) is a more recent language model based on a large neural architecrture that can be fine-tuned for sentiment-analysis tasks.
 
-Vader assings a sentiment score to the text of each tweet, and then we can distinguisch ```positive```, ```negative``` and ```neutral``` tweets by setting a threshold on this score.
+Vader assings a sentiment score to the text of each tweet, and then we can distinguisch ```positive```, ```negative``` and ```neutral``` tweets by setting a threshold on this score. The following plot shows the sentiment distribution as predicted by Vader.
+
+![Vader](vader_sent_distrib.png){:height="200" width="200"}
 
 
-The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```Positive``` and ```Negative``` tweets.
+The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```positive``` and ```negative``` tweets.
 
 
 
