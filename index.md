@@ -1,7 +1,7 @@
 ---
 layout: home
-title: <span style="color:Maroon">How to Become a Twitter Influencer </span>
-subtitle: <span style="color:Maroon">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
+title: <span style="color:DarkGray">How to Become a Twitter Influencer </span>
+subtitle: <span style="color:DarkGray">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
 cover-img: "/assets/img/High_res_cam.jpg"
 ---
  Social Media is becoming a central part of our lives. And our dependence on it is getting stronger. There are plenty of other websites that give tips on how get more retweets or followers, but 
