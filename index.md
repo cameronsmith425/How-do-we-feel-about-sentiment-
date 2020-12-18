@@ -75,4 +75,4 @@ ___
 - Keep your tweets **healthy**, and the retweets will come 
 - **Bash some politicians** around election time
 - **Don't worry** too much about the **number of followers** you have
-- ***Just be yourself***
+- ***Just be yourself!***
