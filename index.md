@@ -69,5 +69,9 @@ Here you can see the percentage of positive and negative tweets posted per user,
 ## In a Nutshell
 ___
 
-- Negative vibes hit hard when starting to grow your following
-- 
+- The early bird gets the worm on the weekdays
+- Relax a bit and post later on the weekends
+- Sharing is caring, but not when it comes to posts about food
+- Keep your tweets healthy, and the retweets will come 
+- Bash some politicians around election time
+- Don't worry too much about the number of followers you have
