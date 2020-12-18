@@ -44,7 +44,7 @@ But! Take into account that sentiment is crucial in some of the topics. You will
 
 ![Median retweet count per category and sentiment](/assets/img/median_retweetcount.png)
 
-
+![](/assets/img/peaks.png)
 
 
 ## How many followers should you aim to have?
