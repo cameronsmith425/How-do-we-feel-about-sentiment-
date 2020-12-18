@@ -36,6 +36,9 @@ If you really want to boost your retweet count, you should pay close attention n
 
 Don't get too excited though. You have to keep in mind that this peak may be due to someone really popular skewing the results (maybe you could be that person someday). So, we combine the statistics for the weekday and weekend to try and alleviate the affects of very popular accounts, so you have a bettter idea of when to post. Although we showed that most tweets are happening during the weekday, it seems like the weekend might be the time to post to increase the amount of retweets you recieve. If you feel like saying something positive, the best time to do it is betweem 9-11AM or 2-9PM on the weekend. Away from your phone on the weekend? You can still get a good amount of retweets with the positive tweets early in the morning during the weekdays. If your the type of person that likes conflict, posting a negative tweet early in the morning on a weekday, or late at night on the weekend is your best option. 
 
+
+![](/assets/img/average_retweets.png)
+
 ## Which is the best topic to talk about?
 ___
 
