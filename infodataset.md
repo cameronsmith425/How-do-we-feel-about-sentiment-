@@ -19,8 +19,18 @@ Vader assings a sentiment score to the text of each tweet, and then we can disti
 
 The sentiment-analysis model based on BERT is fine-tuned on a dataset with only ```positive``` and ```negative``` tweets. We applied this model on the ones labeled by Vader as non-neutral and we obtained the following distribution.
 
-<span style="display:block;text-align:center"> ![Vader](bert_sent_distrib.png){:height="500" width="500"} </span>
+<span style="display:block;text-align:center"> ![BERT](bert_sent_distrib.png){:height="500" width="500"} </span>
+
+We see that the distribution of positive and negative tweets can be different depending on the model. Let's look in more details at the difference between the predictions made by BERT and Vader. The following plot shows the percentage of tweets that fall under each of the four possible combinations of label assingments by the two models.
+
+<span style="display:block;text-align:center"> ![agreement](agreement.png){:height="500" width="500"} </span>
+
+We see that, overall, the two models agree for approximately 70% of the tweets in the dataset.
+
+In order to maximize the precision of the labeling of ```positive``` and ```negative``` tweets, we consider a tweet as ```positive``` or ```negative``` only if the two models agree. In case of disagreement, the tweet is be labeled as ```neutral``` and will be disregarded in our analysis.
+
+This yields the final distribution depicted in the plot below.
 
 
-
+<span style="display:block;text-align:center"> ![FINAL](final_distrib.png){:height="500" width="500"} </span>
 
