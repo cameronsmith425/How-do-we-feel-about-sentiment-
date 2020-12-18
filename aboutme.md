@@ -8,7 +8,7 @@ We are three master students and a PhD student from [EPFL](https://www.epfl.ch/a
 
 | Mattia Atzeni | Laura Cabizzosu | Marcel Granero | Cameron Smith |
 | :------ |:--- | :--- | :--- |
-| ![test image size](mattia.jpeg){: height="200" width="200"}  | ![test image size](/assets/img/LauraMusetti.jpg){: height="200"  width="200"} | ![test image size](/assets/img/Marcel.jpeg){: height="200" width="200"}  | ![test image size](/assets/img/handsome_guy.jpg){: height="200" width="150"} | 
+| ![test image size](mattia.jpeg){: height="200" width="200"}  | ![test image size](/assets/img/LauraMusetti.jpg){: height="200"  width="200"} | ![test image size](/assets/img/Marcel.jpeg){: height="200" width="200"}  | ![test image size](/assets/img/handsome_guy.jpg){: height="200" width="200"} | 
 | PhD Student | Bioengineer | Data Scientist | Bioengineer |
 
 
