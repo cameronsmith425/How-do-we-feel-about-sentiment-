@@ -4,14 +4,14 @@ title: <span style="color:DarkGray">How to Become a Twitter Influencer </span>
 subtitle: <span style="color:DarkGray">A short guide on how to boost your chances to be a real influencer on Twitter.</span>
 cover-img: "/assets/img/High_res_cam.jpg"
 ---
- Social Media is becoming a bigger and bigger part of our lives. There are plenty of other websites that give tips on how get more retweets or followers, but 
+ Social Media is becoming a central part of our lives. And our dependence on it is getting stronger. There are plenty of other websites that give tips on how get more retweets or followers, but 
  how many of them can claim to have a solid scientific evidence to support their tips? 
 
  Have you ever wondered which is the best moment of the day to publish your tweets to have the biggest retweetability? 
  Or which topic is more likely to give you more visibility? Or again which is the best mood to impress your followers?
 
  Here is the answer.
- We analysed several features of over one million tweets coming from real users to analyze the popularity of these users. 
+ We analysed several features of over one million real tweets to analyze the popularity of their authors. 
  We sum up all what we discovered here and share this found knowledge with you guys.
 
 
